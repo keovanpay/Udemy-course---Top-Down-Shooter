@@ -4847,6 +4847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: crashed_car_1
       objectReference: {fileID: 0}
+    - target: {fileID: 2439097658490766728, guid: 4c18e85295627b74582ac457fc8d9697, type: 3}
+      propertyPath: m_Convex
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4656296929141082944, guid: 4c18e85295627b74582ac457fc8d9697, type: 3}
       propertyPath: m_LocalPosition.x
       value: -311.80444
@@ -18111,6 +18115,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1990789868430406224}
     m_Modifications:
+    - target: {fileID: 3761947836083670394, guid: 52f93bbf6f2a098478ad0fd96e46bd93, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4607329482350706251, guid: 52f93bbf6f2a098478ad0fd96e46bd93, type: 3}
       propertyPath: m_LocalPosition.x
       value: -319.30005
